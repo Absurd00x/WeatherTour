@@ -1,0 +1,248 @@
+Tokyo               	               Japan
+Jakarta             	           Indonesia
+Guangzhou           	               China
+Beijing             	               China
+Shanghai            	               China
+São Paulo           	              Brazil
+Lagos               	             Nigeria
+Mexico City         	              Mexico
+New York            	       United States
+Dhaka               	          Bangladesh
+Osaka               	               Japan
+Cairo               	               Egypt
+Chongqing           	               China
+Delhi               	               India
+Moscow              	              Russia
+Bangkok             	            Thailand
+Tianjin             	               China
+Los Angeles         	       United States
+Buenos Aires        	           Argentina
+London              	      United Kingdom
+Xi'an               	               China
+Lahore              	            Pakistan
+Ho Chi Minh City    	             Vietnam
+Tehran              	                Iran
+Istanbul            	              Turkey
+Kinshasa            	            DR Congo
+Manila              	         Philippines
+Mumbai              	               India
+Rio de Janeiro      	              Brazil
+Seoul               	        Korea, South
+Nanjing             	               China
+Paris               	              France
+Shantou             	               China
+Lima                	                Peru
+Shijiazhuang        	               China
+Chengdu             	               China
+Bogotá              	            Colombia
+Chicago             	       United States
+Wenzhou             	               China
+Nagoya              	               Japan
+Qingdao             	               China
+Busan               	        Korea, South
+Changchun           	               China
+Ningbo              	               China
+Surabaya            	           Indonesia
+Dallas              	       United States
+Kuala Lumpur        	            Malaysia
+Bandung             	           Indonesia
+Casablanca          	             Morocco
+Houston             	       United States
+Toronto             	              Canada
+Shenyang            	               China
+Quanzhou            	               China
+Philadelphia        	       United States
+Abuja               	             Nigeria
+Dalian              	               China
+Saint Petersburg    	              Russia
+Berlin              	             Germany
+Jinan               	               China
+Fukuoka             	               Japan
+Barcelona           	               Spain
+Waltair          	                   India
+Khartoum            	               Sudan
+Belo Horizonte      	              Brazil
+Xiamen              	               China
+Sydney              	           Australia
+Guayaquil           	             Ecuador
+Algier              	             Algeria
+Melbourne           	           Australia
+Quito               	             Ecuador
+Baku                	          Azerbaijan
+Ankara              	              Turkey
+Phoenix             	       United States
+Addis Ababa         	            Ethiopia
+Monterrey           	              Mexico
+Guatemala City      	           Guatemala
+Guadalajara         	              Mexico
+Porto Alegre        	              Brazil
+Rome                	               Italy
+Montreal            	              Canada
+Medan               	           Indonesia
+Fortaleza           	              Brazil
+Accra               	               Ghana
+Chittagong          	          Bangladesh
+Isfahan             	                Iran
+Salvador            	              Brazil
+Brasília            	              Brazil
+Maracaibo           	           Venezuela
+Recife              	              Brazil
+Medellín            	            Colombia
+Birmingham          	      United Kingdom
+Lanzhou             	               China
+Cologne             	             Germany
+Oran                	             Algeria
+Cali                	            Colombia
+Curitiba            	              Brazil
+Kano                	             Nigeria
+Mashhad             	                Iran
+Milan               	               Italy
+Tangshan            	               China
+Semarang            	           Indonesia
+Kanpur              	               India
+Warsaw              	              Poland
+San Diego           	       United States
+Campinas            	              Brazil
+İzmir               	              Turkey
+Budapest            	             Hungary
+Caracas             	           Venezuela
+Ibadan              	             Nigeria
+Tunis               	             Tunisia
+Prague              	      Czech Republic
+Munich              	             Germany
+Vienna              	             Austria
+Sapporo             	               Japan
+Kathmandu           	               Nepal
+Davao City          	         Philippines
+Ouagadougou         	        Burkina Faso
+Nagpur              	               India
+Lusaka              	              Zambia
+Almaty              	          Kazakhstan
+San Antonio         	       United States
+Dakar               	             Senegal
+Barranquilla        	            Colombia
+Brisbane            	           Australia
+Bucharest           	             Romania
+Tripoli             	               Libya
+Patna               	               India
+Baoding             	               China
+Sana'a              	               Yemen
+Makassar            	           Indonesia
+Montevideo          	             Uruguay
+Tijuana             	              Mexico
+Bhopal              	               India
+Maputo              	          Mozambique
+Santa Cruz de la Sierra	             Bolivia
+Mandalay            	             Myanmar
+Sofia               	            Bulgaria
+Kharkiv             	             Ukraine
+Auckland            	         New Zealand
+Córdoba             	           Argentina
+Tbilisi            	             Georgia
+Rosario             	           Argentina
+Ahvaz               	                Iran
+Belgrade            	              Serbia
+Calgary             	              Canada
+Astana              	          Kazakhstan
+Allahabad           	               India
+Cartagena           	            Colombia
+Karachi             	            Pakistan
+Harbin              	               China
+Suzhou              	               China
+Bangalore           	               India
+Shenzhen            	               China
+Dongguan            	               China
+Hong Kong           	               China
+Baghdad             	                Iraq
+Fuzhou              	               China
+Changsha            	               China
+Wuhan               	               China
+Hanoi               	             Vietnam
+Hyderabad           	               India
+Foshan              	               China
+Zunyi               	               China
+Santiago            	               Chile
+Riyadh              	        Saudi Arabia
+Ahmedabad           	               India
+Singapore           	           Singapore
+Yangon              	             Myanmar
+Abidjan             	         Ivory Coast
+Chennai             	               India
+Alexandria          	               Egypt
+Kolkata             	               India
+Surat               	               India
+Johannesburg        	        South Africa
+Dar es Salaam       	            Tanzania
+Giza                	               Egypt
+Zhengzhou           	               China
+New Taipei          	              Taiwan
+Cape Town           	        South Africa
+Yokohama            	               Japan
+Hangzhou            	               China
+Jeddah              	        Saudi Arabia
+Durban              	        South Africa
+Kabul               	         Afghanistan
+Hefei               	               China
+Pyongyang           	        Korea, North
+Madrid              	               Spain
+Faisalabad          	            Pakistan
+Ekurhuleni          	        South Africa
+Nairobi             	               Kenya
+Zhongshan           	               China
+Pune                	               India
+Jaipur              	               India
+Incheon             	        Korea, South
+Quezon City         	         Philippines
+Kyiv                	             Ukraine
+Dubai               	United Arab Emirates
+Luanda              	              Angola
+Lucknow             	               India
+Kaohsiung           	              Taiwan
+Taichung            	              Taiwan
+Basra               	                Iraq
+Taipei              	              Taiwan
+Chaozhou            	               China
+Managua             	           Nicaragua
+Daegu               	        Korea, South
+Douala              	            Cameroon
+Yaoundé             	            Cameroon
+Tashkent            	          Uzbekistan
+Phnom Penh          	            Cambodia
+Havana              	                Cuba
+Rawalpindi          	            Pakistan
+Gujranwala          	            Pakistan
+Karaj               	                Iran
+Peshawar            	            Pakistan
+Minsk               	             Belarus
+Tainan              	              Taiwan
+Multan              	            Pakistan
+Shiraz              	                Iran
+Brazzaville         	      Congo Republic
+Hamburg             	             Germany
+Tabriz              	                Iran
+Hyderabad           	            Pakistan
+Palembang           	           Indonesia
+Harare              	            Zimbabwe
+Caloocan            	         Philippines
+Novosibirsk         	              Russia
+Kobe                	               Japan
+Daejeon             	        Korea, South
+Kampala             	              Uganda
+Kawasaki            	               Japan
+Vijayawada          	               India
+Gwangju             	        Korea, South
+Kyoto               	               Japan
+Yekaterinburg       	              Russia
+Nizhny Novgorod     	              Russia
+Saitama             	               Japan
+Suwon-si               	        Korea, South
+Qom                 	                Iran
+Hiroshima           	               Japan
+Ulsan               	        Korea, South
+Omsk                	              Russia
+Abu Dhabi           	United Arab Emirates
+Rostov-on-Don       	              Russia
+Fez                 	             Morocco
+Yerevan             	             Armenia
+Bulawayo            	            Zimbabwe
+Islamabad           	            Pakistan
